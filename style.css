@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color:gold;
+}
+
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+
+#camera{
+    border: 2px dashed blue;
+    width: 200px;
+    height: 200px;
+}
+
+.NameOfObjects{
+    color: orange;
+}
+
+#Result_Object_name,#Result_Object_accuracy{
+    color: orangered;
+}
